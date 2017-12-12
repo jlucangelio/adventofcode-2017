@@ -1,5 +1,3 @@
-
-
 with open("day11.input") as f:
     steps = f.read().split(",")
 
