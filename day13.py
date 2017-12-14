@@ -9,8 +9,6 @@ with open("day13.input") as f:
         layer_ranges[l] = r
         last_layer = l
 
-print layer_ranges
-
 delay = 0
 while True:
     if delay % 10000 == 0:
